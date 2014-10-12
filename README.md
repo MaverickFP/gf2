@@ -1,4 +1,4 @@
-gf1
+gf2
 ===
 
-glassfish
+test glassfish
